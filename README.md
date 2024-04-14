@@ -1,7 +1,7 @@
 <h1 align="center">
    Hi!👋 I'm Hieu
-   <p>A passionate application developer (IOS)</p>
 </h1>
+   <p align="center">A passionate application developer (IOS).</p>
 
 # About me
 
