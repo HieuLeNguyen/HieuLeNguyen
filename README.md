@@ -3,7 +3,7 @@
 </h1>
    <p align="center">A passionate application developer (IOS).</p>
 
-# About me
+# About me🙎🏻 
 
 <table>
   <tr>
@@ -129,7 +129,7 @@
 </table>
 <br><br>
 
-# GitHub Stats📈 :
+# GitHub Stats📈 
 ![](https://github-readme-stats.vercel.app/api?username=HieuLeNguyen&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HieuLeNguyen&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
