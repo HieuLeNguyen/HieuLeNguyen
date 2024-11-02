@@ -45,7 +45,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=HieuLeNguyen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Language-Framework-Tools🧑🏻‍💻
+# Favorite language, tools, framework🧑🏻‍💻
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
