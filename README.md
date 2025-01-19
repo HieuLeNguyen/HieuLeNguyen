@@ -1,10 +1,10 @@
-<h1 align="center">
+<h1 align="left">
    Hi!👋 I'm Hieu
 </h1>
-   <p align="center">A passionate application developer (IOS).</p>
+   <p align="left">A passionate application developer (IOS).</p>
 
-# About me🙎🏻 
-
+#
+<h3 style="font-size: 16px;">About me 🙎🏻</h3>
 <table>
   <tr>
     <td>
@@ -41,14 +41,13 @@
     </td>
   </tr>
 </table>
-<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=HieuLeNguyen&icon=0&color=0)](https://visitcount.itsvg.in)
-
-# Favorite language, tools, framework🧑🏻‍💻
+#
+<h3 style="font-size: 16px;">Favorite language, tools, framework 🧑🏻‍💻</h3>
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
@@ -59,6 +58,10 @@
       <br>Php
     </td>
     <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=rust" alt="icon"  width="48" height="48" />
+      <br>Rust
+    </td>
+     <td align="center" width="96">
        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
@@ -69,10 +72,6 @@
     <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="48" height="48" alt="css" />
       <br>Css
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>Mysql
     </td>
   </tr>
   
@@ -96,6 +95,10 @@
     <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=jquery" alt="icon"  width="48" height="48" />
       <br>Jquery
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>Mysql
     </td>
   </tr>
   
@@ -128,7 +131,3 @@
  
 </table>
 <br><br>
-
-
-
----
