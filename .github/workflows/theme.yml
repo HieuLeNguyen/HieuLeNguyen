@@ -1,0 +1,30 @@
+name: Refresh profile theme
+
+# Re-renders assets/hero.svg every day so seasonal themes (Tết: 23 tháng Chạp
+# to mùng 10, computed from the lunar calendar) switch on and off by themselves.
+on:
+  schedule:
+    - cron: "5 17 * * *" # 00:05 Hanoi time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Render hero.svg for today
+        env:
+          TZ: Asia/Ho_Chi_Minh
+        run: python3 scripts/make_hero_svg.py
+
+      - name: Commit if the theme changed
+        run: |
+          git diff --quiet assets/hero.svg && { echo "No change"; exit 0; }
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh hero theme for $(TZ=Asia/Ho_Chi_Minh date +%F)" assets/hero.svg
+          git push

@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="A Swift struct describing Hieu — iOS developer in Hanoi, Vietnam. Stack: Swift, SwiftUI, C++, PHP / Laravel, MySQL. Curious about Rust, RxSwift, Claude and GitHub." />
+  <img src="./assets/hero.svg" width="100%" alt="Animated story: Claude Code bootstraps, plans, designs and codes Hieu's SwiftUI profile app, chases down a bug, then runs it in an iPhone simulator." />
 </p>
